@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/05/wallpaper.wiki-Vintage-Picture-Free-Download-PIC-WPE00308.jpg");
+    background-size: cover;
+}
+
+
+.container {
+    
+}
+
+.profile-pic {
+    float: left;
+}
+
+.title {
+    text-align: center;
+}

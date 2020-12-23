@@ -3,8 +3,16 @@ body {
     background-size: cover;
 }
 
+footer{
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+}
 
-.container {
+.portimg {
+    margin: 2em;
     
 }
 
